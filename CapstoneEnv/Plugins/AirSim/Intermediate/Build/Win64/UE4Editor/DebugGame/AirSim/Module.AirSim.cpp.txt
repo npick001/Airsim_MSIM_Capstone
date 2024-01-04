@@ -1,0 +1,1252 @@
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Intermediate\Build\Win64\UE4Editor\DebugGame\AirSim\Definitions.AirSim.h
+C:/Users/Nick/source/repos/npick001/Airsim_MSIM_Capstone/CapstoneEnv/Plugins/AirSim/Source/AirBlueprintLib.cpp
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirBlueprintLib.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime/AssetRegistry/Public/AssetRegistryModule.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\AssetRegistry\Public\AssetRegistry/AssetRegistryModule.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\AssetRegistry\Public\AssetRegistry/IAssetRegistry.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\Misc/AssetRegistryInterface.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\AssetRegistry/ARFilter.h
+E:\Program Files\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AssetRegistry\IAssetRegistry.generated.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\Engine\Public\EngineUtils.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/PlayerInput.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\Engine\Public\GestureRecognizer.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\Engine\Public\KeyState.h
+E:\Program Files\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PlayerInput.generated.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\ImageWrapper\Public\IImageWrapperModule.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet/KismetMathLibrary.h
+E:\Program Files\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\KismetMathLibrary.generated.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet\KismetMathLibrary.inl
+E:\Program Files\UE_4.27\Engine\Source\Runtime\Landscape\Classes\LandscapeProxy.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\Landscape\Classes\LandscapeComponent.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\Landscape\Classes\LandscapePhysicalMaterial.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\Landscape\Classes\LandscapeWeightmapUsage.h
+E:\Program Files\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Landscape\LandscapeWeightmapUsage.generated.h
+E:\Program Files\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Landscape\LandscapeComponent.generated.h
+E:\Program Files\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Landscape\LandscapeProxy.generated.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet/KismetSystemLibrary.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyAccessUtil.h
+E:\Program Files\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\KismetSystemLibrary.generated.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\Engine\Classes\Sound/DialogueTypes.h
+E:\Program Files\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DialogueTypes.generated.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet\GameplayStaticsTypes.h
+E:\Program Files\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStaticsTypes.generated.h
+E:\Program Files\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStatics.generated.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet/KismetStringLibrary.h
+E:\Program Files\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\KismetStringLibrary.generated.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\include\common/AirSimSettings.hpp
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\include\common\CommonStructs.hpp
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\include\common/Common.hpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\INCLUDE\string
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\INCLUDE\xstring
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\INCLUDE\__msvc_sanitizer_annotate_container.hpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\INCLUDE\iosfwd
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\INCLUDE\cstdio
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\INCLUDE\cwchar
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\INCLUDE\xmemory
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\INCLUDE\limits
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\INCLUDE\cfloat
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\INCLUDE\xutility
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\INCLUDE\cctype
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\INCLUDE\memory
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\INCLUDE\vector
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\INCLUDE\__msvc_bit_utils.hpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\INCLUDE\unordered_map
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\INCLUDE\xhash
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\INCLUDE\cmath
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\INCLUDE\list
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\INCLUDE\xbit_ops.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\INCLUDE\unordered_set
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\INCLUDE\iostream
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\INCLUDE\istream
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\INCLUDE\ostream
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\INCLUDE\ios
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\INCLUDE\xlocnum
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\INCLUDE\iterator
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\INCLUDE\streambuf
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\INCLUDE\xiosbase
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\share.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\INCLUDE\system_error
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\INCLUDE\__msvc_system_error_abi.hpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\INCLUDE\cerrno
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\INCLUDE\stdexcept
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\INCLUDE\xcall_once.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\INCLUDE\xerrc.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\INCLUDE\xlocale
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\INCLUDE\xfacet
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\INCLUDE\xlocinfo
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\INCLUDE\__msvc_xlocinfo_types.hpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\INCLUDE\clocale
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\locale.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\include\common/common_utils/Utils.hpp
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\include\common\common_utils\StrictMode.hpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\INCLUDE\chrono
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\INCLUDE\__msvc_chrono.hpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\INCLUDE\ratio
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\INCLUDE\thread
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\process.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_startup.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\math.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\INCLUDE\vcruntime_startup.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\INCLUDE\cstdarg
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\INCLUDE\array
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\INCLUDE\sstream
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\INCLUDE\fstream
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\INCLUDE\__msvc_filebuf.hpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\INCLUDE\random
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\INCLUDE\__msvc_int128.hpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\INCLUDE\algorithm
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\INCLUDE\iomanip
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\INCLUDE\xlocmon
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\INCLUDE\xloctime
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\INCLUDE\queue
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\INCLUDE\deque
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\INCLUDE\bitset
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\include\common\common_utils\type_utils.hpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\INCLUDE\valarray
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\math.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_math_defines.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\include\common\common_utils/RandomGenerator.hpp
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\include\common\VectorMath.hpp
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen/Dense
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\Core
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/Core/util/DisableStupidWarnings.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/Core/util/Macros.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\INCLUDE\complex
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\INCLUDE\ymath.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/Core/util/MKL_support.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\INCLUDE\cassert
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\assert.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\INCLUDE\functional
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/Core/util/Constants.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/Core/util/Meta.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/Core/util/ForwardDeclarations.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/Core/util/StaticAssert.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/Core/util/XprHelper.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/Core/util/Memory.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/Core/NumTraits.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/Core/MathFunctions.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/Core/GenericPacketMath.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/Core/MathFunctionsImpl.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/Core/arch/Default/ConjHelper.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/Core/arch/SSE/PacketMath.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/Core/arch/SSE/MathFunctions.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/Core/arch/SSE/Complex.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/Core/arch/SSE/TypeCasting.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/Core/arch/CUDA/Half.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/Core/arch/CUDA/PacketMathHalf.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/Core/arch/CUDA/TypeCasting.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/Core/arch/Default/Settings.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/Core/functors/TernaryFunctors.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/Core/functors/BinaryFunctors.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/Core/functors/UnaryFunctors.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/Core/functors/NullaryFunctors.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/Core/functors/StlFunctors.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/Core/functors/AssignmentFunctors.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/Core/arch/CUDA/Complex.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/Core/IO.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/Core/DenseCoeffsBase.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/Core/DenseBase.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src\Core\../plugins/BlockMethods.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/Core/MatrixBase.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src\Core\../plugins/CommonCwiseUnaryOps.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src\Core\../plugins/CommonCwiseBinaryOps.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src\Core\../plugins/MatrixCwiseUnaryOps.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src\Core\../plugins/MatrixCwiseBinaryOps.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/Core/EigenBase.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/Core/Product.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/Core/CoreEvaluators.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/Core/AssignEvaluator.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/Core/Assign.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/Core/ArrayBase.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src\Core\../plugins/CommonCwiseUnaryOps.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src\Core\../plugins/MatrixCwiseUnaryOps.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src\Core\../plugins/ArrayCwiseUnaryOps.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src\Core\../plugins/CommonCwiseBinaryOps.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src\Core\../plugins/MatrixCwiseBinaryOps.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src\Core\../plugins/ArrayCwiseBinaryOps.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/Core/util/BlasUtil.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/Core/DenseStorage.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/Core/NestByValue.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/Core/ReturnByValue.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/Core/NoAlias.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/Core/PlainObjectBase.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/Core/Matrix.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/Core/Array.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/Core/CwiseTernaryOp.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/Core/CwiseBinaryOp.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/Core/CwiseUnaryOp.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/Core/CwiseNullaryOp.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/Core/CwiseUnaryView.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/Core/SelfCwiseBinaryOp.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/Core/Dot.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/Core/StableNorm.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/Core/Stride.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/Core/MapBase.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/Core/Map.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/Core/Ref.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/Core/Block.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/Core/VectorBlock.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/Core/Transpose.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/Core/DiagonalMatrix.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/Core/Diagonal.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/Core/DiagonalProduct.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/Core/Redux.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/Core/Visitor.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/Core/Fuzzy.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/Core/Swap.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/Core/CommaInitializer.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/Core/GeneralProduct.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/Core/Solve.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/Core/Inverse.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/Core/SolverBase.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/Core/PermutationMatrix.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/Core/Transpositions.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/Core/TriangularMatrix.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/Core/SelfAdjointView.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/Core/products/GeneralBlockPanelKernel.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/Core/products/Parallelizer.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/Core/ProductEvaluators.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/Core/products/GeneralMatrixVector.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/Core/products/GeneralMatrixMatrix.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/Core/SolveTriangular.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/Core/products/GeneralMatrixMatrixTriangular.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/Core/products/SelfadjointMatrixVector.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/Core/products/SelfadjointMatrixMatrix.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/Core/products/SelfadjointProduct.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/Core/products/SelfadjointRank2Update.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/Core/products/TriangularMatrixVector.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/Core/products/TriangularMatrixMatrix.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/Core/products/TriangularSolverMatrix.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/Core/products/TriangularSolverVector.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/Core/BandMatrix.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/Core/CoreIterators.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/Core/ConditionEstimator.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/Core/BooleanRedux.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/Core/Select.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/Core/VectorwiseOp.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/Core/Random.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/Core/Replicate.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/Core/Reverse.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/Core/ArrayWrapper.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/Core/GlobalFunctions.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/Core/util/ReenableStupidWarnings.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\LU
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/Core/util/DisableStupidWarnings.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/misc/Kernel.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/misc/Image.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/LU/FullPivLU.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/LU/PartialPivLU.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/LU/Determinant.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/LU/InverseImpl.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/LU/arch/Inverse_SSE.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/Core/util/ReenableStupidWarnings.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\Cholesky
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\Jacobi
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/Core/util/DisableStupidWarnings.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/Jacobi/Jacobi.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/Core/util/ReenableStupidWarnings.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/Core/util/DisableStupidWarnings.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/Cholesky/LLT.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/Cholesky/LDLT.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/Core/util/ReenableStupidWarnings.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\QR
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/Core/util/DisableStupidWarnings.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\Householder
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/Householder/Householder.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/Householder/HouseholderSequence.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/Householder/BlockHouseholder.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/Core/util/ReenableStupidWarnings.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/QR/HouseholderQR.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/QR/FullPivHouseholderQR.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/QR/ColPivHouseholderQR.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/QR/CompleteOrthogonalDecomposition.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/Core/util/ReenableStupidWarnings.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\SVD
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/Core/util/DisableStupidWarnings.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/misc/RealSvd2x2.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/SVD/UpperBidiagonalization.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/SVD/SVDBase.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/SVD/JacobiSVD.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/SVD/BDCSVD.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/Core/util/ReenableStupidWarnings.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\Geometry
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/Core/util/DisableStupidWarnings.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/Geometry/OrthoMethods.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/Geometry/EulerAngles.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/Geometry/Homogeneous.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/Geometry/RotationBase.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/Geometry/Rotation2D.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/Geometry/Quaternion.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/Geometry/AngleAxis.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/Geometry/Transform.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/Geometry/Translation.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/Geometry/Scaling.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/Geometry/Hyperplane.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/Geometry/ParametrizedLine.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/Geometry/AlignedBox.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/Geometry/Umeyama.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/Geometry/arch/Geometry_SSE.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/Core/util/ReenableStupidWarnings.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\Eigenvalues
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/Core/util/DisableStupidWarnings.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/Eigenvalues/Tridiagonalization.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/Eigenvalues/RealSchur.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src\Eigenvalues\./HessenbergDecomposition.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/Eigenvalues/EigenSolver.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/Eigenvalues/SelfAdjointEigenSolver.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/Eigenvalues/GeneralizedSelfAdjointEigenSolver.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/Eigenvalues/ComplexSchur.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/Eigenvalues/ComplexEigenSolver.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/Eigenvalues/RealQZ.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/Eigenvalues/GeneralizedEigenSolver.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/Eigenvalues/MatrixBaseEigenvalues.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\eigen3\Eigen\src/Core/util/ReenableStupidWarnings.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\include\common\ImageCaptureBase.hpp
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\include\common/common_utils/EnumFlags.hpp
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\include\common\Settings.hpp
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\include\common\common_utils/json.hpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\INCLUDE\numeric
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\INCLUDE\forward_list
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\INCLUDE\map
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\INCLUDE\xtree
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\INCLUDE\cassert
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\assert.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\INCLUDE\mutex
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\include\common\common_utils/FileSystem.hpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\INCLUDE\codecvt
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\INCLUDE\locale
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\INCLUDE\xlocbuf
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\INCLUDE\xlocmes
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\include\sensors/SensorBase.hpp
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\include\common/UpdatableObject.hpp
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\include\common\StateReporter.hpp
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\include\common\ClockFactory.hpp
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\include\common\ScalableClock.hpp
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\include\common\ClockBase.hpp
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\include\physics/Environment.hpp
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\include\common/EarthUtils.hpp
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\include\common/GeodeticConverter.hpp
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\include\physics/Kinematics.hpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\INCLUDE\regex
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Intermediate\Build\Win64\UE4Editor\Inc\AirSim\AirBlueprintLib.generated.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/SceneCaptureComponent2D.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/SceneCaptureComponent.h
+E:\Program Files\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SceneCaptureComponent.generated.h
+E:\Program Files\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SceneCaptureComponent2D.generated.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/RotatingMovementComponent.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/MovementComponent.h
+E:\Program Files\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MovementComponent.generated.h
+E:\Program Files\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RotatingMovementComponent.generated.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\Engine\Classes\Camera/CameraComponent.h
+E:\Program Files\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CameraComponent.generated.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime/Engine/Classes/GameFramework/PlayerStart.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/NavigationObjectBase.h
+E:\Program Files\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\NavigationObjectBase.generated.h
+E:\Program Files\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PlayerStart.generated.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/MessageDialog.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\Engine\Public\Slate/SceneViewport.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\ImageWrapper\Public\IImageWrapper.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\AssetRegistry\Public\ARFilter.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\DetectionComponent.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\ObjectFilter.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Intermediate\Build\Win64\UE4Editor\Inc\AirSim\ObjectFilter.generated.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Intermediate\Build\Win64\UE4Editor\Inc\AirSim\DetectionComponent.generated.h
+C:/Users/Nick/source/repos/npick001/Airsim_MSIM_Capstone/CapstoneEnv/Plugins/AirSim/Source/AirLib/src/api/RpcLibClientBase.cpp
+C:/Users/Nick/source/repos/npick001/Airsim_MSIM_Capstone/CapstoneEnv/Plugins/AirSim/Source/AirLib/src/api/RpcLibServerBase.cpp
+C:/Users/Nick/source/repos/npick001/Airsim_MSIM_Capstone/CapstoneEnv/Plugins/AirSim/Source/AirLib/src/common/common_utils/FileSystem.cpp
+C:/Users/Nick/source/repos/npick001/Airsim_MSIM_Capstone/CapstoneEnv/Plugins/AirSim/Source/AirLib/src/safety/ObstacleMap.cpp
+C:/Users/Nick/source/repos/npick001/Airsim_MSIM_Capstone/CapstoneEnv/Plugins/AirSim/Source/AirLib/src/safety/SafetyEval.cpp
+C:/Users/Nick/source/repos/npick001/Airsim_MSIM_Capstone/CapstoneEnv/Plugins/AirSim/Source/AirLib/src/vehicles/car/api/CarRpcLibClient.cpp
+C:/Users/Nick/source/repos/npick001/Airsim_MSIM_Capstone/CapstoneEnv/Plugins/AirSim/Source/AirLib/src/vehicles/car/api/CarRpcLibServer.cpp
+C:/Users/Nick/source/repos/npick001/Airsim_MSIM_Capstone/CapstoneEnv/Plugins/AirSim/Source/AirLib/src/vehicles/multirotor/api/MultirotorApiBase.cpp
+C:/Users/Nick/source/repos/npick001/Airsim_MSIM_Capstone/CapstoneEnv/Plugins/AirSim/Source/AirLib/src/vehicles/multirotor/api/MultirotorRpcLibClient.cpp
+C:/Users/Nick/source/repos/npick001/Airsim_MSIM_Capstone/CapstoneEnv/Plugins/AirSim/Source/AirLib/src/vehicles/multirotor/api/MultirotorRpcLibServer.cpp
+C:/Users/Nick/source/repos/npick001/Airsim_MSIM_Capstone/CapstoneEnv/Plugins/AirSim/Source/AirSim.cpp
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirSim.h
+C:/Users/Nick/source/repos/npick001/Airsim_MSIM_Capstone/CapstoneEnv/Plugins/AirSim/Source/AirSimGameMode.cpp
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirSimGameMode.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+E:\Program Files\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+E:\Program Files\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameUserSettings.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\Engine\Public\Scalability.h
+E:\Program Files\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameUserSettings.generated.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Intermediate\Build\Win64\UE4Editor\Inc\AirSim\AirSimGameMode.generated.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\SimHUD/SimHUD.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/HUD.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/HUDHitBox.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/DebugTextInfo.h
+E:\Program Files\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DebugTextInfo.generated.h
+E:\Program Files\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\HUD.generated.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\SimHUD\SimHUDWidget.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\UMG\Public\Blueprint/UserWidget.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\UMG\Public\Components/SlateWrapperTypes.h
+E:\Program Files\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\SlateWrapperTypes.generated.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\UMG\Public\Components/Widget.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\UMG\Public\Components/Visual.h
+E:\Program Files\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\Visual.generated.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\UMG\Public\Slate/WidgetTransform.h
+E:\Program Files\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\WidgetTransform.generated.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\UMG\Public\Blueprint/WidgetNavigation.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Types/NavigationMetaData.h
+E:\Program Files\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\WidgetNavigation.generated.h
+E:\Program Files\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\Widget.generated.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\UMG\Public\Components/NamedSlotInterface.h
+E:\Program Files\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\NamedSlotInterface.generated.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Layout/Anchors.h
+E:\Program Files\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Slate\Anchors.generated.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\UMG\Public\Animation/WidgetAnimation.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\MovieScene\Public\MovieSceneSequence.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\MovieScene\Public\MovieSceneSignedObject.h
+E:\Program Files\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneSignedObject.generated.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\MovieScene\Public\MovieSceneTrack.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\MovieScene\Public\Compilation/MovieSceneSegmentCompiler.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/InlineValue.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneSegment.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\Core\Public\UObject/SequencerObjectVersion.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\MovieScene\Public\MovieSceneFrameMigration.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\MovieScene\Public\MovieSceneFwd.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\MovieScene\Public\MovieSceneSequenceID.h
+E:\Program Files\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneSequenceID.generated.h
+E:\Program Files\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneFrameMigration.generated.h
+E:\Program Files\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneSegment.generated.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneEvaluationField.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneEvaluationKey.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneTrackIdentifier.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\Core\Public\UObject/EditorObjectVersion.h
+E:\Program Files\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneTrackIdentifier.generated.h
+E:\Program Files\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneEvaluationKey.generated.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneEvaluationTree.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\MovieScene\Public\EntitySystem/MovieSceneEntityIDs.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\MovieScene\Public\EntitySystem/MovieSceneEntitySystemTypes.h
+E:\Program Files\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneEvaluationField.generated.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\MovieScene\Public\MovieSceneSection.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\MovieScene\Public\KeyParams.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\MovieScene\Public\MovieScene.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\MovieScene\Public\MovieSceneSpawnable.h
+E:\Program Files\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneSpawnable.generated.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\MovieScene\Public\MovieSceneBinding.h
+E:\Program Files\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneBinding.generated.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\MovieScene\Public\MovieScenePossessable.h
+E:\Program Files\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieScenePossessable.generated.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\MovieScene\Public\MovieSceneObjectBindingID.h
+E:\Program Files\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneObjectBindingID.generated.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\MovieScene\Public\MovieSceneTimeController.h
+E:\Program Files\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieScene.generated.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\MovieScene\Public\Evaluation/Blending/MovieSceneBlendType.h
+E:\Program Files\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneBlendType.generated.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneCompletionMode.h
+E:\Program Files\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneCompletionMode.generated.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\MovieScene\Public\Generators/MovieSceneEasingFunction.h
+E:\Program Files\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneEasingFunction.generated.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneEvaluationCustomVersion.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\MovieScene\Public\EntitySystem/MovieSceneEntityBuilder.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\MovieScene\Public\EntitySystem/MovieSceneEntityManager.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/StrongObjectPtr.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieScenePlayback.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneSequenceTransform.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\Core\Public\Algo/AllOf.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\MovieScene\Public\Evaluation\MovieSceneTimeTransform.h
+E:\Program Files\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneTimeTransform.generated.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\MovieScene\Public\Evaluation\MovieSceneTimeWarping.h
+E:\Program Files\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneTimeWarping.generated.h
+E:\Program Files\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneSequenceTransform.generated.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\MovieScene\Public\EntitySystem/MovieSceneEntityFactoryTypes.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\MovieScene\Public\EntitySystem/MovieSceneComponentTypeHandler.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\MovieScene\Public\EntitySystem/MovieSceneComponentTypeInfo.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\MovieScene\Public\EntitySystem/MovieSceneComponentDebug.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\Core\Public\Algo/AnyOf.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\Core\Public\Algo/NoneOf.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\Core\Public\Algo/Common.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\MovieScene\Public\EntitySystem/MovieSceneComponentRegistry.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\MovieScene\Public\EntitySystem/MovieSceneEntityFactory.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\MovieScene\Public\EntitySystem/MovieSceneEntitySystemDirectedGraph.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/GeneratedTypeName.h
+E:\Program Files\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneSection.generated.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\MovieScene\Public\MovieSceneTrackEvaluationField.h
+E:\Program Files\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneTrackEvaluationField.generated.h
+E:\Program Files\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneTrack.generated.h
+E:\Program Files\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneSequence.generated.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\UMG\Public\Animation/WidgetAnimationBinding.h
+E:\Program Files\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\WidgetAnimationBinding.generated.h
+E:\Program Files\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\WidgetAnimation.generated.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\UMG\Public\Blueprint/WidgetBlueprintGeneratedClass.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\UMG\Public\Binding/DynamicPropertyPath.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\PropertyPath\Public\PropertyPathHelpers.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\PropertyPath\Public\PropertyTypeCompatibility.h
+E:\Program Files\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\PropertyPath\PropertyPathHelpers.generated.h
+E:\Program Files\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\DynamicPropertyPath.generated.h
+E:\Program Files\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\WidgetBlueprintGeneratedClass.generated.h
+E:\Program Files\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\UserWidget.generated.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\PIPCamera.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\Engine\Classes\Camera/CameraActor.h
+E:\Program Files\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CameraActor.generated.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\NedTransform.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\CinematicCamera\Public\CineCameraActor.h
+E:\Program Files\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\CinematicCamera\CineCameraActor.generated.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\CinematicCamera\Public\CineCameraComponent.h
+E:\Program Files\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\CinematicCamera\CineCameraComponent.generated.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\Engine\Classes\Materials/MaterialParameterCollection.h
+E:\Program Files\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialParameterCollection.generated.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\Engine\Classes\Materials/MaterialParameterCollectionInstance.h
+E:\Program Files\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialParameterCollectionInstance.generated.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Intermediate\Build\Win64\UE4Editor\Inc\AirSim\PIPCamera.generated.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Intermediate\Build\Win64\UE4Editor\Inc\AirSim\SimHUDWidget.generated.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\SimMode/SimModeBase.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/SkyLightComponent.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/LightComponentBase.h
+E:\Program Files\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\LightComponentBase.generated.h
+E:\Program Files\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SkyLightComponent.generated.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/DirectionalLight.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/Light.h
+E:\Program Files\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Light.generated.h
+E:\Program Files\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DirectionalLight.generated.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\Engine\Public\ParticleDefinitions.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/MonolithicHeaderBoilerplate.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\Engine\Public\ParticleVertexFactory.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\Engine\Public\TessellationRendering.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\Engine\Public\MeshParticleVertexFactory.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\Engine\Public\ParticleHelper.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\Engine\Classes\Particles/ParticlePerfStats.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\Engine\Public\Distributions.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\Engine\Public\ParticleEmitterInstances.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\Engine\Classes\Distributions/DistributionFloat.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\Engine\Classes\Distributions/Distribution.h
+E:\Program Files\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Distribution.generated.h
+E:\Program Files\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DistributionFloat.generated.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\Engine\Classes\Distributions/DistributionVector.h
+E:\Program Files\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DistributionVector.generated.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\Engine\Classes\Particles/Orientation/ParticleModuleOrientationAxisLock.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\Engine\Classes\Particles/Orientation/ParticleModuleOrientationBase.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\Engine\Classes\Particles/ParticleModule.h
+E:\Program Files\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ParticleModule.generated.h
+E:\Program Files\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ParticleModuleOrientationBase.generated.h
+E:\Program Files\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ParticleModuleOrientationAxisLock.generated.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\CameraDirector.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\PawnSimApi.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\Engine\Classes\Particles/ParticleSystemComponent.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\Engine\Classes\Particles/ParticleSystem.h
+E:\Program Files\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ParticleSystem.generated.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\Engine\Classes\Particles/Emitter.h
+E:\Program Files\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Emitter.generated.h
+E:\Program Files\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ParticleSystemComponent.generated.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\UnrealImageCapture.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\include\common/common_utils/UniqueValueMap.hpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\INCLUDE\set
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\include\common/common_utils/Signal.hpp
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\SimJoyStick/SimJoyStick.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\include\api/VehicleApiBase.hpp
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\include\common/Waiter.hpp
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\include\common/CancelToken.hpp
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\include\safety/SafetyEval.hpp
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\include\safety\ObstacleMap.hpp
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\include\safety\IGeoFence.hpp
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\include\vehicles/multirotor/api/MultirotorCommon.hpp
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\include\sensors/SensorCollection.hpp
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\include\common/UpdatableContainer.hpp
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\include\sensors/lidar/LidarBase.hpp
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\include\sensors/imu/ImuBase.hpp
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\include\sensors/barometer/BarometerBase.hpp
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\include\sensors/magnetometer/MagnetometerBase.hpp
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\include\sensors/distance/DistanceBase.hpp
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\include\sensors/gps/GpsBase.hpp
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\include\api/VehicleSimApiBase.hpp
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\PawnEvents.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\ManualPoseController.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Intermediate\Build\Win64\UE4Editor\Inc\AirSim\ManualPoseController.generated.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/SpringArmComponent.h
+E:\Program Files\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SpringArmComponent.generated.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Intermediate\Build\Win64\UE4Editor\Inc\AirSim\CameraDirector.generated.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\include\api/ApiServerBase.hpp
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\include\api/ApiProvider.hpp
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\include\api\WorldSimApiBase.hpp
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\include\common/StateReporterWrapper.hpp
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\include\common\common_utils/OnlineStats.hpp
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\include\common/FrequencyLimiter.hpp
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\SimMode\LoadingScreenWidget.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime/UMG/Public/Components/Image.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\Engine\Public\Slate/SlateTextureAtlasInterface.h
+E:\Program Files\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SlateTextureAtlasInterface.generated.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/StreamableManager.h
+E:\Program Files\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\Image.generated.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Intermediate\Build\Win64\UE4Editor\Inc\AirSim\LoadingScreenWidget.generated.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Intermediate\Build\Win64\UE4Editor\Inc\AirSim\SimModeBase.generated.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Intermediate\Build\Win64\UE4Editor\Inc\AirSim\SimHUD.generated.h
+C:/Users/Nick/source/repos/npick001/Airsim_MSIM_Capstone/CapstoneEnv/Plugins/AirSim/Source/CameraDirector.cpp
+C:/Users/Nick/source/repos/npick001/Airsim_MSIM_Capstone/CapstoneEnv/Plugins/AirSim/Source/DetectionComponent.cpp
+E:\Program Files\UE_4.27\Engine\Source\Runtime\Engine\Public\DrawDebugHelpers.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/TextureRenderTarget2D.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/TextureRenderTarget.h
+E:\Program Files\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\TextureRenderTarget.generated.h
+E:\Program Files\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\TextureRenderTarget2D.generated.h
+C:/Users/Nick/source/repos/npick001/Airsim_MSIM_Capstone/CapstoneEnv/Plugins/AirSim/Source/ManualPoseController.cpp
+C:/Users/Nick/source/repos/npick001/Airsim_MSIM_Capstone/CapstoneEnv/Plugins/AirSim/Source/NedTransform.cpp
+C:/Users/Nick/source/repos/npick001/Airsim_MSIM_Capstone/CapstoneEnv/Plugins/AirSim/Source/ObjectFilter.cpp
+C:/Users/Nick/source/repos/npick001/Airsim_MSIM_Capstone/CapstoneEnv/Plugins/AirSim/Source/PawnEvents.cpp
+C:/Users/Nick/source/repos/npick001/Airsim_MSIM_Capstone/CapstoneEnv/Plugins/AirSim/Source/PawnSimApi.cpp
+E:\Program Files\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/LineBatchComponent.h
+E:\Program Files\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\LineBatchComponent.generated.h
+C:/Users/Nick/source/repos/npick001/Airsim_MSIM_Capstone/CapstoneEnv/Plugins/AirSim/Source/PIPCamera.cpp
+E:\Program Files\UE_4.27\Engine\Source\Runtime\Engine\Public\ImageUtils.h
+C:/Users/Nick/source/repos/npick001/Airsim_MSIM_Capstone/CapstoneEnv/Plugins/AirSim/Source/Recording/RecordingFile.cpp
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\Recording\RecordingFile.h
+C:/Users/Nick/source/repos/npick001/Airsim_MSIM_Capstone/CapstoneEnv/Plugins/AirSim/Source/Recording/RecordingThread.cpp
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\Recording\RecordingThread.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\include\common/WorkerThread.hpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\INCLUDE\future
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\INCLUDE\condition_variable
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\INCLUDE\ppltasks.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\INCLUDE\pplwin.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\INCLUDE\pplinterface.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\INCLUDE\ppltaskscheduler.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\INCLUDE\crtdefs.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\INCLUDE\pplcancellation_token.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\RenderRequest.h
+C:/Users/Nick/source/repos/npick001/Airsim_MSIM_Capstone/CapstoneEnv/Plugins/AirSim/Source/RenderRequest.cpp
+C:/Users/Nick/source/repos/npick001/Airsim_MSIM_Capstone/CapstoneEnv/Plugins/AirSim/Source/SimHUD/SimHUD.cpp
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\Vehicles/Multirotor/SimModeWorldMultiRotor.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\Vehicles\Multirotor\FlyingPawn.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\Vehicles\Multirotor\MultirotorPawnEvents.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Intermediate\Build\Win64\UE4Editor\Inc\AirSim\FlyingPawn.generated.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\SimMode/SimModeWorldBase.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\include\physics/PhysicsEngineBase.hpp
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\include\physics\PhysicsBody.hpp
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\include\physics\PhysicsBodyVertex.hpp
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\include\physics/World.hpp
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\include\common/common_utils/ScheduledExecutor.hpp
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\include\physics/PhysicsWorld.hpp
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Intermediate\Build\Win64\UE4Editor\Inc\AirSim\SimModeWorldBase.generated.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Intermediate\Build\Win64\UE4Editor\Inc\AirSim\SimModeWorldMultiRotor.generated.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\Vehicles/Car/SimModeCar.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\Vehicles\Car\CarPawn.h
+E:\Program Files\UE_4.27\Engine\Plugins\Runtime\PhysXVehicles\Source\PhysXVehicles\Public\WheeledVehicle.h
+E:\Program Files\UE_4.27\Engine\Plugins\Runtime\PhysXVehicles\Intermediate\Build\Win64\UE4Editor\Inc\PhysXVehicles\WheeledVehicle.generated.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\PhysicsCore\Public\PhysicalMaterials/PhysicalMaterial.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\PhysicsCore\Public\PhysicsSettingsEnums.h
+E:\Program Files\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\PhysicsCore\PhysicsSettingsEnums.generated.h
+E:\Program Files\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\PhysicsCore\PhysicalMaterial.generated.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\include\vehicles/car/api/CarApiBase.hpp
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\include\sensors/SensorFactory.hpp
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\include\sensors/imu/ImuSimple.hpp
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\include\sensors\imu\ImuSimpleParams.hpp
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\include\sensors/magnetometer/MagnetometerSimple.hpp
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\include\sensors\magnetometer\MagnetometerSimpleParams.hpp
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\include\common/DelayLine.hpp
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\include\sensors/gps/GpsSimple.hpp
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\include\sensors\gps\GpsSimpleParams.hpp
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\include\common/FirstOrderFilter.hpp
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\include\sensors/barometer/BarometerSimple.hpp
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\include\sensors\barometer\BarometerSimpleParams.hpp
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\include\common/GaussianMarkov.hpp
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Intermediate\Build\Win64\UE4Editor\Inc\AirSim\CarPawn.generated.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Intermediate\Build\Win64\UE4Editor\Inc\AirSim\SimModeCar.generated.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\Vehicles/ComputerVision/SimModeComputerVision.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\Vehicles\ComputerVision\ComputerVisionPawn.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Intermediate\Build\Win64\UE4Editor\Inc\AirSim\ComputerVisionPawn.generated.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Intermediate\Build\Win64\UE4Editor\Inc\AirSim\SimModeComputerVision.generated.h
+C:/Users/Nick/source/repos/npick001/Airsim_MSIM_Capstone/CapstoneEnv/Plugins/AirSim/Source/SimHUD/SimHUDWidget.cpp
+C:/Users/Nick/source/repos/npick001/Airsim_MSIM_Capstone/CapstoneEnv/Plugins/AirSim/Source/SimJoyStick/DirectInputJoyStick.cpp
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\SimJoyStick\DirectInputJoystick.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\include\common/common_utils/WindowsApisCommonPre.hpp
+E:\Program Files\UE_4.27\Engine\Source\Runtime\Core\Public\Windows/PreWindowsApi.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\Core\Public\Windows/AllowWindowsPlatformTypes.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\Core\Public\Windows/WindowsHWrapper.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\Core\Public\Windows/PreWindowsApi.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\Core\Public\Windows/MinWindows.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\Windows.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\sdkddkver.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\INCLUDE\excpt.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\windef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\minwindef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\winnt.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\kernelspecs.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\basetsd.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\guiddef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\apiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\ktmtypes.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\winbase.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\apisetcconv.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\minwinbase.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\apiquery2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\processenv.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\fileapifromapp.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\fileapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\debugapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\utilapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\handleapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\errhandlingapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\fibersapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\namedpipeapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\profileapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\heapapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\ioapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\synchapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\interlockedapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\processthreadsapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\sysinfoapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\memoryapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\enclaveapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\threadpoollegacyapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\threadpoolapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\jobapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\jobapi2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\wow64apiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\libloaderapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\securitybaseapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\namespaceapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\systemtopologyapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\processtopologyapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\securityappcontainer.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\realtimeapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\winerror.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\timezoneapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\wingdi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\winuser.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\tvout.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\winnls.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\datetimeapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\stringapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\winnls.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\wincon.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\wincontypes.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\consoleapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\consoleapi2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\consoleapi3.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\winver.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\verrsrc.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\winreg.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\reason.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\winnetwk.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\wnnc.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\stralign.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\imm.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\ime_cmodes.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\Core\Public\Windows/PostWindowsApi.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\Core\Public\Windows/AllowWindowsPlatformAtomics.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\include\common/common_utils/MinWinDefines.hpp
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\dinput.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\objbase.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\rpc.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\rpcdce.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\rpcdcep.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\rpcnsi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\rpcnterr.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\rpcasync.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\rpcndr.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\rpcnsip.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\rpcsal.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\combaseapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\wtypesbase.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\guiddef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\unknwnbase.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\objidlbase.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\guiddef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\cguid.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\coml2api.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\objidl.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\unknwn.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\wtypes.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\propidlbase.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\oaidl.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\urlmon.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\oleidl.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\servprov.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\msxml.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\propidl.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\dinputd.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\ole2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\oleauto.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\wbemidl.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\wbemcli.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\wbemprov.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\wbemtran.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\wbemdisp.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\dispex.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\ocidl.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\include\common/common_utils/WindowsApisCommonPost.hpp
+E:\Program Files\UE_4.27\Engine\Source\Runtime\Core\Public\Windows/HideWindowsPlatformAtomics.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\Core\Public\Windows/HideWindowsPlatformTypes.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\Core\Public\Windows/PostWindowsApi.h
+C:/Users/Nick/source/repos/npick001/Airsim_MSIM_Capstone/CapstoneEnv/Plugins/AirSim/Source/SimJoyStick/SimJoyStick.cpp
+C:/Users/Nick/source/repos/npick001/Airsim_MSIM_Capstone/CapstoneEnv/Plugins/AirSim/Source/SimMode/SimModeBase.cpp
+E:\Program Files\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/OutputDeviceNull.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\include\common/SteppableClock.hpp
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\include\common/EarthCelestial.hpp
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\include\sensors/lidar/LidarSimple.hpp
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\include\sensors\lidar\LidarSimpleParams.hpp
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\include\sensors/distance/DistanceSimple.hpp
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\include\sensors\distance\DistanceSimpleParams.hpp
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\Weather/WeatherLib.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime/Engine/Classes/Engine/ExponentialHeightFog.h
+E:\Program Files\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ExponentialHeightFog.generated.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Intermediate\Build\Win64\UE4Editor\Inc\AirSim\WeatherLib.generated.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\WorldSimApi.h
+C:/Users/Nick/source/repos/npick001/Airsim_MSIM_Capstone/CapstoneEnv/Plugins/AirSim/Source/SimMode/SimModeWorldBase.cpp
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\include\physics/FastPhysicsEngine.hpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\INCLUDE\cinttypes
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\inttypes.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\include\physics/ExternalPhysicsEngine.hpp
+C:/Users/Nick/source/repos/npick001/Airsim_MSIM_Capstone/CapstoneEnv/Plugins/AirSim/Source/TextureShuffleActor.cpp
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\TextureShuffleActor.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/StaticMeshActor.h
+E:\Program Files\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\StaticMeshActor.generated.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Intermediate\Build\Win64\UE4Editor\Inc\AirSim\TextureShuffleActor.generated.h
+C:/Users/Nick/source/repos/npick001/Airsim_MSIM_Capstone/CapstoneEnv/Plugins/AirSim/Source/UnrealImageCapture.cpp
+C:/Users/Nick/source/repos/npick001/Airsim_MSIM_Capstone/CapstoneEnv/Plugins/AirSim/Source/UnrealSensors/UnrealDistanceSensor.cpp
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\UnrealSensors\UnrealDistanceSensor.h
+C:/Users/Nick/source/repos/npick001/Airsim_MSIM_Capstone/CapstoneEnv/Plugins/AirSim/Source/UnrealSensors/UnrealLidarSensor.cpp
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\UnrealSensors\UnrealLidarSensor.h
+C:/Users/Nick/source/repos/npick001/Airsim_MSIM_Capstone/CapstoneEnv/Plugins/AirSim/Source/UnrealSensors/UnrealSensorFactory.cpp
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\UnrealSensors\UnrealSensorFactory.h
+C:/Users/Nick/source/repos/npick001/Airsim_MSIM_Capstone/CapstoneEnv/Plugins/AirSim/Source/Vehicles/Car/CarPawn.cpp
+E:\Program Files\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/TextRenderComponent.h
+E:\Program Files\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\TextRenderComponent.generated.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/AudioComponent.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\Engine\Classes\Sound/QuartzSubscription.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\AudioMixer\Public\Quartz/AudioMixerClockHandle.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\AudioMixer\Public\Quartz/QuartzSubsystem.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\AudioMixer\Public\Quartz/AudioMixerClockManager.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\AudioMixer\Public\Quartz\AudioMixerClock.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\AudioMixer\Public\Quartz/QuartzMetronome.h
+E:\Program Files\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AudioMixer\QuartzSubsystem.generated.h
+E:\Program Files\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AudioMixer\AudioMixerClockHandle.generated.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\AudioMixer\Public\Quartz/AudioMixerQuantizedCommands.h
+E:\Program Files\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AudioComponent.generated.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\Engine\Classes\Sound/SoundCue.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\Engine\Classes\Sound/SoundNode.h
+E:\Program Files\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SoundNode.generated.h
+E:\Program Files\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SoundCue.generated.h
+E:\Program Files\UE_4.27\Engine\Plugins\Runtime\PhysXVehicles\Source\PhysXVehicles\Public\WheeledVehicleMovementComponent4W.h
+E:\Program Files\UE_4.27\Engine\Plugins\Runtime\PhysXVehicles\Source\PhysXVehicles\Public\WheeledVehicleMovementComponent.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\Engine\Classes\AI/Navigation/NavigationAvoidanceTypes.h
+E:\Program Files\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\NavigationAvoidanceTypes.generated.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\Engine\Public\AI/RVOAvoidanceInterface.h
+E:\Program Files\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RVOAvoidanceInterface.generated.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/PawnMovementComponent.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/NavMovementComponent.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\Engine\Classes\AI/Navigation/PathFollowingAgentInterface.h
+E:\Program Files\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PathFollowingAgentInterface.generated.h
+E:\Program Files\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\NavMovementComponent.generated.h
+E:\Program Files\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PawnMovementComponent.generated.h
+E:\Program Files\UE_4.27\Engine\Plugins\Runtime\PhysXVehicles\Source\PhysXVehicles\Public\VehicleWheel.h
+E:\Program Files\UE_4.27\Engine\Plugins\Runtime\PhysXVehicles\Intermediate\Build\Win64\UE4Editor\Inc\PhysXVehicles\VehicleWheel.generated.h
+E:\Program Files\UE_4.27\Engine\Plugins\Runtime\PhysXVehicles\Intermediate\Build\Win64\UE4Editor\Inc\PhysXVehicles\WheeledVehicleMovementComponent.generated.h
+E:\Program Files\UE_4.27\Engine\Plugins\Runtime\PhysXVehicles\Intermediate\Build\Win64\UE4Editor\Inc\PhysXVehicles\WheeledVehicleMovementComponent4W.generated.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\Vehicles\Car\CarWheelFront.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Intermediate\Build\Win64\UE4Editor\Inc\AirSim\CarWheelFront.generated.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\Vehicles\Car\CarWheelRear.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Intermediate\Build\Win64\UE4Editor\Inc\AirSim\CarWheelRear.generated.h
+C:/Users/Nick/source/repos/npick001/Airsim_MSIM_Capstone/CapstoneEnv/Plugins/AirSim/Source/Vehicles/Car/CarPawnApi.cpp
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\Vehicles\Car\CarPawnApi.h
+E:\Program Files\UE_4.27\Engine\Plugins\Runtime\PhysXVehicles\Source\PhysXVehicles\Public\PhysXVehicleManager.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\PhysicsCore\Public\PhysXIncludes.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation\Px.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation/PxSimpleTypes.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation/PxPreprocessor.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\INCLUDE\ciso646
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\INCLUDE\iso646.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\PxPhysicsAPI.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation/PxAllocatorCallback.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation/PxAssert.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation/PxBitAndData.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation/PxBounds3.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation/PxTransform.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation/PxQuat.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation/PxVec3.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation/PxMath.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\math.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation/PxIntrinsics.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation/windows/PxWindowsIntrinsics.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\math.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation/PxPlane.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation/PxMat33.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation/PxErrorCallback.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation/PxErrors.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation/PxFlags.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation/PxFoundation.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation/PxFoundationVersion.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation/PxIO.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation/PxMat44.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation/PxVec4.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation/PxMathUtils.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation/PxStrideIterator.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation/PxUnionCast.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation/PxVec2.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\common/PxCoreUtilityTypes.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation/PxMemory.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\common/PxPhysXCommonConfig.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\common/PxRenderBuffer.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\common/PxBase.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\common\PxSerialFramework.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\common\PxCollection.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\common/PxTypeInfo.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\common/PxTolerancesScale.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\common/PxStringTable.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\common/PxSerializer.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\common/PxMetaData.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\common\PxMetaDataFlags.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\common/PxPhysicsInsertionCallback.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PxShared\include\task/PxTask.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PxShared\include\task/PxTaskDefine.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PxShared\include\task/PxTaskManager.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PxShared\include\task/PxCpuDispatcher.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PxShared\include\task/PxGpuDispatcher.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PxShared\include\task/PxTask.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\gpu/PxGpu.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\PxPhysXConfig.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PxShared\include\cudamanager/PxCudaContextManager.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PxShared\include\cudamanager/PxCudaMemoryManager.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PxShared\include\cudamanager/PxGpuCopyDesc.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\geometry/PxBoxGeometry.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\geometry/PxGeometry.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\geometry/PxCapsuleGeometry.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\geometry/PxConvexMesh.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\geometry/PxConvexMeshGeometry.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\geometry/PxMeshScale.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\geometry/PxGeometryHelpers.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\geometry\PxSphereGeometry.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\geometry\PxPlaneGeometry.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\geometry\PxTriangleMeshGeometry.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\geometry\PxHeightFieldGeometry.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\geometry/PxGeometryQuery.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\PxQueryReport.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\geometry/PxHeightField.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\geometry/PxHeightFieldFlag.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\geometry/PxHeightFieldDesc.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\geometry/PxHeightFieldSample.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\geometry/PxMeshQuery.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\geometry/PxSimpleTriangleMesh.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\geometry/PxTriangle.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\geometry/PxTriangleMesh.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\PxActor.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\PxClient.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\PxAggregate.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\PxArticulation.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\PxArticulationJoint.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\PxArticulationLink.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\PxRigidBody.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\PxRigidActor.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\PxShape.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\PxForceMode.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\PxBatchQuery.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\PxBatchQueryDesc.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\PxFiltering.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\PxQueryFiltering.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\PxConstraint.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\PxConstraintDesc.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\PxContact.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\PxContactModifyCallback.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\PxDeletionListener.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\PxLockedData.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\PxMaterial.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\PxPhysics.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\cloth/PxClothTypes.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\cloth/PxClothFabric.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\PxPhysicsVersion.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\PxRigidDynamic.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\PxRigidStatic.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\PxScene.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\PxVisualizationParameter.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\PxSceneDesc.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\PxBroadPhase.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\PxSimulationStatistics.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\particles/PxParticleSystem.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\particles/PxParticleBase.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\particles/PxParticleBaseFlag.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\particles/PxParticleCreationData.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\particles/PxParticleReadData.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\particles\PxParticleFlag.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\particles/PxParticleFluid.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\particles/PxParticleFluidReadData.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\pvd/PxPvdSceneClient.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\PxSceneLock.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\PxSimulationEventCallback.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\PxSpatialIndex.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\PxVolumeCache.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\PxPruningStructure.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\characterkinematic/PxBoxController.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\characterkinematic/PxCharacter.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\characterkinematic/PxController.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\characterkinematic/PxExtended.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\characterkinematic/PxControllerObstacles.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\characterkinematic/PxCapsuleController.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\characterkinematic/PxControllerBehavior.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\characterkinematic/PxControllerManager.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\cloth/PxCloth.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\cloth/PxClothCollisionData.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\cloth/PxClothParticleData.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\cooking/Pxc.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\cooking/PxConvexMeshDesc.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\cooking/PxCooking.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\cooking/PxTriangleMeshDesc.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\cooking/PxMidphaseDesc.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\cooking/PxBVH33MidphaseDesc.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\cooking/PxBVH34MidphaseDesc.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\extensions/PxDefaultStreams.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\extensions/PxDistanceJoint.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\extensions/PxJoint.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\extensions/PxExtensionsAPI.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\extensions/PxDefaultAllocator.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\extensions/PxConstraintExt.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\extensions/PxFixedJoint.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\extensions/PxPrismaticJoint.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\extensions/PxJointLimit.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\extensions/PxRevoluteJoint.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\extensions/PxSphericalJoint.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\extensions/PxD6Joint.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\extensions/PxDefaultSimulationFilterShader.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\extensions/PxDefaultErrorCallback.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\extensions/PxRigidActorExt.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\extensions/PxRigidBodyExt.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\extensions/PxMassProperties.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\extensions/PxShapeExt.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\extensions/PxParticleExt.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\extensions/PxTriangleMeshExt.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\extensions/PxSerialization.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\extensions/PxDefaultCpuDispatcher.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\extensions/PxSmoothNormals.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\extensions/PxSimpleFactory.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\extensions/PxStringTableExt.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\extensions/PxClothFabricCooker.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\extensions\PxClothMeshDesc.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\extensions/PxBroadPhaseExt.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\extensions/PxClothMeshQuadifier.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\extensions/PxSceneQueryExt.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\extensions/PxConvexMeshExt.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\extensions/PxBinaryConverter.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\extensions/PxRepXSerializer.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\extensions/PxRepXSimpleType.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\vehicle/PxVehicleComponents.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\vehicle\PxVehicleSDK.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\vehicle/PxVehicleDrive.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\vehicle/PxVehicleWheels.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\vehicle/PxVehicleShaders.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\vehicle/PxVehicleDrive4W.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\vehicle/PxVehicleDriveTank.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\vehicle/PxVehicleTireFriction.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\vehicle/PxVehicleUpdate.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\vehicle/PxVehicleUtilControl.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\vehicle/PxVehicleDriveNW.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\vehicle/PxVehicleUtilSetup.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\vehicle/PxVehicleUtilTelemetry.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\vehicle/PxVehicleNoDrive.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PxShared\include\pvd/PxPvd.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PxShared\include\foundation/PxProfiler.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PxShared\include\pvd/PxPvdTransport.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\extensions\PxCollectionExt.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\PxImmediateMode.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\solver/PxSolverDefs.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\GeomUtils/GuContactPoint.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\collision/PxCollisionDefs.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Include\GeomUtils/GuContactBuffer.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\Apex.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\ApexUsingNamespace.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\ApexDefs.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\PhysX3\PhysXSDKVersion.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\ApexDesc.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\ApexInterface.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\RWLockable.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\ApexSDK.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\nvparameterized/NvSerializer.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\PxShared\include\filebuf/PxFileBuf.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\nvparameterized\NvSerializer.inl
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\nvparameterized\NvParameterized.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\nvparameterized\NvParameterized.inl
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\nvparameterized/NvParameterizedMacroses.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\nvparameterized\NvParameterized_types.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\nvparameterized\NvParameterizedTraits.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\Shape.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\Actor.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\Context.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\ApexNameSpace.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\PhysXObjectDesc.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\RenderDataProvider.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\Renderable.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\AssetPreview.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\Asset.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\AssetPreviewScene.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\RenderContext.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\Scene.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\RenderDebugInterface.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\APEX_1.4\shared\general\RenderDebug\public\RenderDebugTyped.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\APEX_1.4\shared\general\RenderDebug\public\RenderDebug.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\MirrorScene.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\ApexSDKCachedData.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\IProgressListener.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\Module.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\IosAsset.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\RenderDataFormat.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\RenderBufferData.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\UserRenderResourceManager.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\UserRenderVertexBufferDesc.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\UserRenderInstanceBufferDesc.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\UserRenderSpriteBufferDesc.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\UserRenderIndexBufferDesc.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\UserRenderBoneBufferDesc.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\UserRenderResourceDesc.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\UserRenderSurfaceBufferDesc.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\UserRenderSurfaceBuffer.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\UserRenderResource.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\UserRenderVertexBuffer.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\UserRenderInstanceBuffer.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\UserRenderSpriteBuffer.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\UserRenderIndexBuffer.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\UserRenderBoneBuffer.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\UserRenderer.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\VertexFormat.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\RenderMesh.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\RenderMeshActorDesc.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\RenderMeshActor.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\RenderMeshAsset.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\ResourceCallback.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\ResourceProvider.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\destructible/ModuleDestructible.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\destructible/DestructibleAsset.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\destructible\FractureToolsAPI.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\destructible\ExplicitHierarchicalMesh.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\ConvexHullMethod.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\destructible\FractureToolsStructs.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\destructible/DestructibleActor.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\clothing/ModuleClothing.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\clothing/ClothingAsset.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\clothing/ClothingActor.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\clothing/ClothingCollision.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\legacy\ModuleLegacy.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\nvparameterized\NvParamUtils.h
+E:\Program Files\UE_4.27\Engine\Source\ThirdParty\PhysX3\APEX_1.4\include\nvparameterized\NvParamUtils.inl
+C:/Users/Nick/source/repos/npick001/Airsim_MSIM_Capstone/CapstoneEnv/Plugins/AirSim/Source/Vehicles/Car/CarPawnSimApi.cpp
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\Vehicles\Car\CarPawnSimApi.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\include\vehicles/car/CarApiFactory.hpp
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\include\vehicles/car/firmwares/physxcar/PhysXCarApi.hpp
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\include\vehicles/car/firmwares/ardurover/ArduRoverApi.hpp
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\MavLinkCom\include\UdpSocket.hpp
+C:/Users/Nick/source/repos/npick001/Airsim_MSIM_Capstone/CapstoneEnv/Plugins/AirSim/Source/Vehicles/Car/CarWheelFront.cpp
+E:\Program Files\UE_4.27\Engine\Plugins\Runtime\PhysXVehicles\Source\PhysXVehicles\Public\TireConfig.h
+E:\Program Files\UE_4.27\Engine\Plugins\Runtime\PhysXVehicles\Intermediate\Build\Win64\UE4Editor\Inc\PhysXVehicles\TireConfig.generated.h
+C:/Users/Nick/source/repos/npick001/Airsim_MSIM_Capstone/CapstoneEnv/Plugins/AirSim/Source/Vehicles/Car/CarWheelRear.cpp
+C:/Users/Nick/source/repos/npick001/Airsim_MSIM_Capstone/CapstoneEnv/Plugins/AirSim/Source/Vehicles/Car/SimModeCar.cpp
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\include\vehicles/car/api/CarRpcLibServer.hpp
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\include\api/RpcLibServerBase.hpp
+C:/Users/Nick/source/repos/npick001/Airsim_MSIM_Capstone/CapstoneEnv/Plugins/AirSim/Source/Vehicles/ComputerVision/ComputerVisionPawn.cpp
+C:/Users/Nick/source/repos/npick001/Airsim_MSIM_Capstone/CapstoneEnv/Plugins/AirSim/Source/Vehicles/ComputerVision/SimModeComputerVision.cpp
+C:/Users/Nick/source/repos/npick001/Airsim_MSIM_Capstone/CapstoneEnv/Plugins/AirSim/Source/Vehicles/Multirotor/FlyingPawn.cpp
+C:/Users/Nick/source/repos/npick001/Airsim_MSIM_Capstone/CapstoneEnv/Plugins/AirSim/Source/Vehicles/Multirotor/MultirotorPawnEvents.cpp
+C:/Users/Nick/source/repos/npick001/Airsim_MSIM_Capstone/CapstoneEnv/Plugins/AirSim/Source/Vehicles/Multirotor/MultirotorPawnSimApi.cpp
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\Vehicles\Multirotor\MultirotorPawnSimApi.h
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\include\vehicles/multirotor/MultiRotorPhysicsBody.hpp
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\include\vehicles\multirotor\RotorActuator.hpp
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\include\vehicles\multirotor\RotorParams.hpp
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\include\vehicles\multirotor\MultiRotorParams.hpp
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\include\vehicles/multirotor/api/MultirotorApiBase.hpp
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\include\vehicles/multirotor/MultiRotorParamsFactory.hpp
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\include\vehicles/multirotor/firmwares/mavlink/MavLinkMultirotorApi.hpp
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\MavLinkCom\include\MavLinkConnection.hpp
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\MavLinkCom\include\MavLinkMessageBase.hpp
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\MavLinkCom\include\MavLinkLog.hpp
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\MavLinkCom\include\MavLinkMessages.hpp
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\MavLinkCom\include\MavLinkNode.hpp
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\MavLinkCom\include\AsyncResult.hpp
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\MavLinkCom\include\Semaphore.hpp
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\MavLinkCom\include\MavLinkVehicle.hpp
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\MavLinkCom\include\VehicleState.hpp
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\MavLinkCom\include\MavLinkVideoStream.hpp
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\include\common/PidController.hpp
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\include\common/common_utils/SmoothingFilter.hpp
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\include\common/common_utils/Timer.hpp
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\include\vehicles/multirotor/firmwares/mavlink/Px4MultiRotorParams.hpp
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\include\vehicles/multirotor/firmwares/simple_flight/SimpleFlightQuadXParams.hpp
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\include\vehicles/multirotor/firmwares/simple_flight/SimpleFlightApi.hpp
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\include\vehicles\multirotor\firmwares\simple_flight\firmware/Firmware.hpp
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\include\vehicles\multirotor\firmwares\simple_flight\firmware\interfaces/CommonStructs.hpp
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\include\vehicles\multirotor\firmwares\simple_flight\firmware\interfaces/IBoard.hpp
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\include\vehicles\multirotor\firmwares\simple_flight\firmware\interfaces\IUpdatable.hpp
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\include\vehicles\multirotor\firmwares\simple_flight\firmware\interfaces\IBoardClock.hpp
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\include\vehicles\multirotor\firmwares\simple_flight\firmware\interfaces\IBoardInputPins.hpp
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\include\vehicles\multirotor\firmwares\simple_flight\firmware\interfaces\IBoardOutputPins.hpp
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\include\vehicles\multirotor\firmwares\simple_flight\firmware\interfaces\IBoardSensors.hpp
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\include\vehicles\multirotor\firmwares\simple_flight\firmware\interfaces/ICommLink.hpp
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\include\vehicles\multirotor\firmwares\simple_flight\firmware\interfaces/IStateEstimator.hpp
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\include\vehicles\multirotor\firmwares\simple_flight\firmware\interfaces/IFirmware.hpp
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\include\vehicles\multirotor\firmwares\simple_flight\firmware\interfaces\IOffboardApi.hpp
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\include\vehicles\multirotor\firmwares\simple_flight\firmware\interfaces\IGoal.hpp
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\include\vehicles\multirotor\firmwares\simple_flight\firmware\Params.hpp
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\include\vehicles\multirotor\firmwares\simple_flight\firmware\RemoteControl.hpp
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\include\vehicles\multirotor\firmwares\simple_flight\firmware\OffboardApi.hpp
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\include\vehicles\multirotor\firmwares\simple_flight\firmware\Mixer.hpp
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\include\vehicles\multirotor\firmwares\simple_flight\firmware\CascadeController.hpp
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\include\vehicles\multirotor\firmwares\simple_flight\firmware\interfaces/IController.hpp
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\include\vehicles\multirotor\firmwares\simple_flight\firmware\AngleRateController.hpp
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\include\vehicles\multirotor\firmwares\simple_flight\firmware\interfaces/IAxisController.hpp
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\include\vehicles\multirotor\firmwares\simple_flight\firmware\PidController.hpp
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\include\vehicles\multirotor\firmwares\simple_flight\firmware\interfaces/IPidIntegrator.hpp
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\include\vehicles\multirotor\firmwares\simple_flight\firmware\StdPidIntegrator.hpp
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\include\vehicles\multirotor\firmwares\simple_flight\firmware\RungKuttaPidIntegrator.hpp
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\include\vehicles\multirotor\firmwares\simple_flight\firmware\AngleLevelController.hpp
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\include\vehicles\multirotor\firmwares\simple_flight\firmware\PassthroughController.hpp
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\include\vehicles\multirotor\firmwares\simple_flight\firmware\ConstantOutputController.hpp
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\include\vehicles\multirotor\firmwares\simple_flight\firmware\VelocityController.hpp
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\include\vehicles\multirotor\firmwares\simple_flight\firmware\PositionController.hpp
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\include\vehicles\multirotor\firmwares\simple_flight\firmware\AdaptiveController.hpp
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\include\vehicles\multirotor\firmwares\simple_flight\AirSimSimpleFlightBoard.hpp
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\include\vehicles\multirotor\firmwares\simple_flight\AirSimSimpleFlightCommLink.hpp
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\include\vehicles\multirotor\firmwares\simple_flight\AirSimSimpleFlightEstimator.hpp
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\include\vehicles\multirotor\firmwares\simple_flight\AirSimSimpleFlightCommon.hpp
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\include\vehicles/multirotor/firmwares/mavlink/ArduCopterSoloParams.hpp
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\include\vehicles/multirotor/firmwares/mavlink/ArduCopterSoloApi.hpp
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\deps\MavLinkCom\include\AdHocConnection.hpp
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\include\vehicles/multirotor/firmwares/arducopter/ArduCopterParams.hpp
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\include\vehicles/multirotor/firmwares/arducopter/ArduCopterApi.hpp
+C:/Users/Nick/source/repos/npick001/Airsim_MSIM_Capstone/CapstoneEnv/Plugins/AirSim/Source/Vehicles/Multirotor/SimModeWorldMultiRotor.cpp
+C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Source\AirLib\include\vehicles/multirotor/api/MultirotorRpcLibServer.hpp
+C:/Users/Nick/source/repos/npick001/Airsim_MSIM_Capstone/CapstoneEnv/Plugins/AirSim/Source/Weather/WeatherLib.cpp
+E:\Program Files\UE_4.27\Engine\Source\Runtime\UMG\Public\Blueprint/WidgetBlueprintLibrary.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\UMG\Public\Blueprint/DragDropOperation.h
+E:\Program Files\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\DragDropOperation.generated.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\Engine\Public\Slate/SGameLayerManager.h
+E:\Program Files\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/SCanvas.h
+E:\Program Files\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\WidgetBlueprintLibrary.generated.h
+C:/Users/Nick/source/repos/npick001/Airsim_MSIM_Capstone/CapstoneEnv/Plugins/AirSim/Source/WorldSimApi.cpp

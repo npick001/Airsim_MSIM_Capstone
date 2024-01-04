@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-AirSim-Win64-DebugGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Intermediate\Build\Win64\CapstoneEnvEditor\DebugGame\Engine\SharedPCH.Engine.NonOptimized.ShadowErrors.h.obj"
+"C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Intermediate\Build\Win64\UE4Editor\DebugGame\AirSim\Module.AirSim.cpp.obj"
+"C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Intermediate\Build\Win64\UE4Editor\DebugGame\AirSim\Module.AirSim.gen.cpp.obj"
+"C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Intermediate\Build\Win64\UE4Editor\DebugGame\AirSim\Default.rc2.res"
+/OUT:"C:\Users\Nick\source\repos\npick001\Airsim_MSIM_Capstone\CapstoneEnv\Plugins\AirSim\Intermediate\Build\Win64\UE4Editor\DebugGame\AirSim\UE4Editor-AirSim-Win64-DebugGame.lib"
