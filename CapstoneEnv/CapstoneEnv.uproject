@@ -13,6 +13,9 @@
 			]
 		}
 	],
+	"TargetPlatforms": [
+		"WindowsNoEditor"
+	],
 	"Plugins": [
 		{
 			"Name": "AirSim",
