@@ -4,5 +4,7 @@
 
 /.vs
 /CapstoneEnv/.vs/CapstoneEnv
-/CapstoneEnv/CapstoneEnv.sln
 /CapstoneEnv/Intermediate
+/CapstoneEnv/CapstoneEnv.sln
+/CapstoneEnv/Saved
+/CapstoneEnv/Binaries
