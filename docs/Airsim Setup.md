@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "Airsim Setup"
 date: 2024-02-16
 catagories: "Setup"
