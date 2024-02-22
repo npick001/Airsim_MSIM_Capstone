@@ -13,9 +13,8 @@ Thank you for viewing the documentation for my senior design project!
 
 If you are looking for a quick way to navigate through the documentation, this is the area youre looking for.
 
-For help with Airsim:
-- [page]
-- 
+Environmental Configuration: <https://github.com/npick001/Airsim_MSIM_Capstone/blob/documentation/docs/Setup.md/#environment-prerequisites>
+
 
 [//] # (The links used in the body of a MD file get stripped out when the markdown processor does its job.)
     [setup]: <Setup.md>
