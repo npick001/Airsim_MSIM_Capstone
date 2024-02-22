@@ -9,3 +9,6 @@ collections:
       - Home.md
       - Setup.md
       - Hardware Specifications.md
+  project_developers:
+    people: true
+    output: true
