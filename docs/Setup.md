@@ -1,17 +1,18 @@
 ---
 layout: default
-title: "Airsim Setup"
+title: "Setup"
 date: 2024-02-16
 catagories: "Setup"
+order: 2
 ---
 
 # Project Setup from Scratch
 
 Setup for this project comes with a few distinct _required and **chronological**_ steps if you wish to replicate the results of the study.
-- Setting up development environment prerequisites
-- Downloading Unreal Engine 4.27
-- Building and Integrate AirSim into Unreal Project
-- Integrated Simulation Setup
+1. Setting up development environment prerequisites
+2. Downloading Unreal Engine 4.27
+3. Building and Integrate AirSim into Unreal Project
+4. Integrated Simulation Setup
 
 ## Environment Prequisites
 

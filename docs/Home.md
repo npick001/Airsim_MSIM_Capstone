@@ -3,12 +3,19 @@ layout: default
 title: "Home"
 date: 2024-02-22
 catagories: ""
+order: 1
 ---
 
 # Hello!
-## Thank you for viewing the documentation for my senior design project!
+Thank you for viewing the documentation for my senior design project!
 
 ## In this project, I use _Microsoft AirSim_ to create a custom integrated simulation environment for aerial autonomous vehicle development and control.
+
+If you are looking for a quick way to navigate through the documentation, this is the area youre looking for.
+
+For help with Airsim:
+- [page]
+- 
 
 [//] # (The links used in the body of a MD file get stripped out when the markdown processor does its job.)
     [setup]: <Setup.md>
