@@ -2,8 +2,6 @@
 layout: default
 title: "Home"
 date: 2024-02-22
-catagories: ""
-order: 1
 ---
 
 # Hello!

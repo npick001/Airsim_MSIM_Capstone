@@ -1,9 +1,6 @@
 ---
 layout: default
 title: "Setup"
-date: 2024-02-16
-catagories: "Setup"
-order: 2
 ---
 
 # Project Setup from Scratch
