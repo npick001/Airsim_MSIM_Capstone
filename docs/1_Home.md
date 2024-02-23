@@ -2,7 +2,6 @@
 layout: default
 title: "Home"
 date: 2024-02-22
-position: 1
 ---
 
 # Hello!
@@ -16,7 +15,7 @@ Environmental Configuration: [Environment Prequisites][environment-setup]
 
 
 [//]: # "The links used in the body of a MD file get stripped out when the markdown processor does its job."
-    [environment-setup]: Setup.md#environment-prequisites
+    [environment-setup]: 2_Setup.md#environment-prequisites
     [airsim-repo]: https://github.com/microsoft/AirSim.git
     [unreal-quickstart]: https://docs.unrealengine.com/4.26/en-US/Basics/GettingStarted/
     [unreal-project-structure]: https://docs.unrealengine.com/4.27/en-US/Basics/DirectoryStructure/

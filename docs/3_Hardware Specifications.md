@@ -1,7 +1,6 @@
 ---
 layout: default
 title: "Hardware Specifications"
-position: 3
 ---
 
 # Drone Hardware Specifications
