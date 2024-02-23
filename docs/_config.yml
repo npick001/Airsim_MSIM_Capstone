@@ -4,7 +4,9 @@ permalink: /:categories/:title/
 description: Bookmark this to keep an eye on the capstone project updates!
 
 collections:
-  site_order:
+  docs:
+    output: true
+    sort_by: position
     order:
       - Home.md
       - Setup.md
