@@ -1,6 +1,7 @@
 ---
 layout: default
-title: "2. Setup"
+title: "Setup"
+nav_order: 2
 ---
 
 # Project Setup from Scratch
