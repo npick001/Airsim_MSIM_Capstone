@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Hardware Specifications"
+title: "3. Hardware Specifications"
 ---
 
 # Drone Hardware Specifications

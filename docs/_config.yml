@@ -4,13 +4,6 @@ permalink: /:categories/:title/
 description: Bookmark this to keep an eye on the capstone project updates!
 
 collections:
-  docs:
-    output: true
-    sort_by: order
-    order:
-      - 'Home'
-      - 'Setup'
-      - 'Hardware Specifications'
   project_developers:
     people: true
     output: true

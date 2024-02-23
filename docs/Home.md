@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Home"
+title: "1. Home"
 date: 2024-02-22
 ---
 

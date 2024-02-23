@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Setup"
+title: "2. Setup"
 ---
 
 # Project Setup from Scratch
