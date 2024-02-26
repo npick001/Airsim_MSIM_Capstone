@@ -2,19 +2,3 @@ remote_theme: rundocs/jekyll-rtd-theme
 title: BSCMSE 2023-2024 Senior Capstone Project homepage
 permalink: /:categories/:title/
 description: Bookmark this to keep an eye on the capstone project updates!
-
-collections:
-  docs:
-    output: true
-    permalink: /:path/
-    order:
-      - "about"
-      - "index"
-      - "Home"
-      - "Hardware Specifications"
-      - "Setup"
-      - "contact"
-    sort_by: order
-  project_developers:
-    people: true
-    output: true
