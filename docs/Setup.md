@@ -116,6 +116,7 @@ Software applications open:
 Networking Requirements (must allow through firewall):
 - TCP Port: 4560
 - UDP Control Ports: 14540, 14580
+- Get your WSL IP from an elevated command prompt by ```ipconfig``` looking for ipv4 for Windows Subsystem for Linux. Replace the LocalHostIp with this Ip address or else windows will not know where to listen for the SITL data.
 
 Example PX4 SITL _settings.json_ file:
 ```
