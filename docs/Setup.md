@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Setup"
+title: "B. Setup"
 nav_order: 2
 ---
 

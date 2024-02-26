@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Hardware Specifications"
+title: "C. Hardware Specifications"
 nav_order: 3
 ---
 
