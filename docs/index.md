@@ -17,8 +17,8 @@ AirSim Setup and Configuration: [AirSim Setup](Setup.md#airsim-setup)
 Integrated Simulation: [In The Loop Setup](Setup.md#integrated-simulation-setup)
 
 ## _Unreal Engine_
-[Quick Start](https://docs.unrealengine.com/4.26/en-US/Basics/GettingStarted/)
-[Project Structure](https://docs.unrealengine.com/4.27/en-US/Basics/DirectoryStructure/)
+- [Quick Start](https://docs.unrealengine.com/4.26/en-US/Basics/GettingStarted/)
+- [Project Structure](https://docs.unrealengine.com/4.27/en-US/Basics/DirectoryStructure/)
 
 ## _Microsoft AirSim_
 [Source Code](https://github.com/microsoft/AirSim.git)
