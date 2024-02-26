@@ -37,7 +37,7 @@ Once you download Visual Studio Code, you must install a few extensions. At mini
 - [WSL](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl) (if on windows)
 
 #### _Windows Subsystem For Linux_
-To run the flight controller Software-in-the-Loop, you must do so through WSL.\
+To run the flight controller Software-in-the-Loop, you must do so through WSL.
 
 [Installing WSL](https://learn.microsoft.com/en-us/windows/wsl/install) requires entering the following command from an elevated command prompt (run as administrator).\
 ```wsl --install```
@@ -79,7 +79,84 @@ make px4_sitl_default
 ```
 
 ## Unreal Engine Setup
+Setting up the Unreal Engine environment is probably the easiest part of this whole process. The steps are:
+- Download the [Epic Games Launcher](https://store.epicgames.com/en-US/download)
+- Open the Launcher and navigate to the **Unreal Engine** tab in the sidebar
+- Go to Library and click the "+" icon by engine versions
+- Select UE 4.27 and download it into an SSD location (preferably), if you choose an external storage or a hard drive that is not an SSD it will severely slow down the editor.
+- Set the UE 4.27 editor as _current_ if you have other versions installed already.
+
+Make sure you are familiar with the [Unreal Engine Project Structure](https://docs.unrealengine.com/4.27/en-US/Basics/DirectoryStructure/) before trying to _use_ the engine.
 
 ## AirSim Setup
+Setting up AirSim is easy once you have the correct environment prerequisites satisified. The steps for building AirSim are:
+- Open Visual Studio 2022
+- Open the _Developer PowerShell_
+- Navigate to your C:\Users\"{User}"\source\repos folder
+- run the commands:
+```
+git clone https://github.com/microsoft/AirSim.git --recursive
+cd AirSim
+build.cmd
+```
+
+This will create a folder in your AirSim repo called **Unreal**. This folder will contain a folder called **Plugins**. Once you have created an Unreal Project, copy the entire Plugins folder into the Unreal project directory.
+
+AirSim uses a file called _settings.json_ to specify the simulation environment settings. By default, settings.json is created in C:\Documents\Airsim\settings.json. Personally, I have moved my settings.json file to my Unreal Engine location because I have multiple Unreal Engine versions for separate projects and want the extra control. This location to put the settings.json file is ...\"{UE_4.27}"\Engine\Binaries\Win64\settings.json.
 
 ## Integrated Simulation Setup
+Setting up the integrated simulation environment should have been done in the environment prerequisites. Therefore, this section will talk about setting up the networking requirements and settings for AirSim to accomplish integrated simulation through Software-in-the-Loop and Hardware-in-the-Loop.
+
+### **_Software-in-the-Loop_**
+Software applications open:
+- Visual Studio Code running WSL
+- Unreal Engine project hosting built AirSim
+- QGroundControl for mission planning
+
+Networking Requirements (must allow through firewall):
+- TCP Port: 4560
+- UDP Control Ports: 14540, 14580
+
+Example PX4 SITL _settings.json_ file:
+```
+{
+  "SeeDocsAt": "https://github.com/Microsoft/AirSim/blob/main/docs/settings.md",
+  "SettingsVersion": 1.2,
+  "SimMode": "Multirotor",
+  "ClockType": "SteppableClock",
+  "Vehicles": {
+    "PX4Drone": {
+      "VehicleType": "PX4Multirotor",
+      "UseSerial": false,
+      "LockStep": true,
+      "UseTcp": true,
+      "TcpPort": 4560,
+      "LocalHostIp": "172.22.240.1",
+      "ControlPortLocal": 14540,
+      "ControlPortRemote": 14580,
+      "Sensors":{
+        "Barometer":{
+            "SensorType": 1,
+            "Enabled": true,
+            "PressureFactorSigma": 0.0001825
+        }
+      },
+      "Parameters": {
+        "NAV_RCL_ACT": 0,
+        "NAV_DLL_ACT": 0,
+        "COM_OBL_ACT": 1,
+        "LPE_LAT": 47.641468,
+        "LPE_LON": -122.140165
+      }
+    }
+  }
+}
+```
+
+Example Ardupilot SITL _settings.json_ file:
+```
+REMEMBER TO CREATE AND ADD AN ARDUPILOT SITL FILE TOO
+```
+
+### **_Hardware-in-the-Loop_**
+Hardware-in-the-Loop is a little more involved. This is not within the scope of our capstone project timeline, so I hope that future iterations of this project can figure that out and fill in this section.
