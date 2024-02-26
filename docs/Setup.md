@@ -6,10 +6,10 @@ title: "Setup"
 # Project Setup from Scratch
 
 Setup for this project comes with a few distinct _required and **chronological**_ steps if you wish to replicate the results of the study.
-1. Setting up development environment prerequisites
-2. Downloading Unreal Engine 4.27
-3. Building and Integrate AirSim into Unreal Project
-4. Integrated Simulation Setup
+1. [Setting up development environment prerequisites](#environment-prequisites)
+2. [Downloading Unreal Engine 4.27](#unreal-engine-setup)
+3. [Build and Integrate AirSim into Unreal Project](#airsim-setup)
+4. [Integrated Simulation Setup](#integrated-simulation-setup)
 
 ## Environment Prequisites
 The setup for this project requires background knowledge in computer directory and file structure, building software packages from source code, basic operating system emulation (WSL on Windows), computer networking and port configuration, and version control. I have already done most of the setup if you fork from my [capstone repository](https://github.com/npick001/Airsim_MSIM_Capstone), but this documentation will take you through the steps I used to build this project from scratch.
