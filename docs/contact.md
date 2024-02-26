@@ -11,7 +11,6 @@ When contacting, please let us know that you come from our *beautiful* documenta
 - Email: npick001@odu.edu
 - Phone: (540)-656-6571
 - Bio: Blahblahblah biography 
-[//] # - Image: ![test-image](Images/hikingImg.JPG){:class="img-responsive"}
 
 ## Ryan Long
 - Job Title:
