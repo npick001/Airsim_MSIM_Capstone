@@ -86,15 +86,16 @@ make px4_sitl_default
   5. In the WSL terminal, navigate to the PX4-Autopilot/ directory.
   6. Create a new file called run.sh and open it with your text editor of choice.
   7. Edit the contents to say
-     ```
+  ```
     #!/bin/sh
     export PX4_HOME_LAT=
     export PX4_HOME_LON=
     export PX4_HOME_ALT=0
     export PX4_SIM_HOST_ADDR=
     make px4_sitl_default
-  8. Set the PX4_SIM_HOST_ADDR to the copied IP, and the lat and lon to the local coordinates of your test site.
-  9. In WSL, type "sh ./run.sh" and the file will launch.
+ ```
+  9. Set the PX4_SIM_HOST_ADDR to the copied IP, and the lat and lon to the local coordinates of your test site.
+  10. In WSL, type "sh ./run.sh" and the file will launch.
 
 ## Unreal Engine Setup
 Setting up the Unreal Engine environment is probably the easiest part of this whole process. The steps are:
