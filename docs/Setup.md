@@ -78,7 +78,7 @@ cd PX4-Autopilot/
 make px4_sitl_default
 ```
 *For WSL users*
-  By default, PX4 SITL outputs data to a localhost IP. Since we are using WSL, you need to retarget this IP to the address windows uses to communicate with WSL.
+  - By default, PX4 SITL outputs data to a localhost IP. Since we are using WSL, you need to retarget this IP to the address windows uses to communicate with WSL.
   1. Open a command prompt as an administrator.
   2. Enter "ipconfig"
   3. Find "Ethernet adapter vEthernet (WSL)"
