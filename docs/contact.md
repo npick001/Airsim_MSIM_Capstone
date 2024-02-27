@@ -13,9 +13,9 @@ When contacting, please let us know that you come from our *beautiful* documenta
 - Bio: Blahblahblah biography 
 
 ## Ryan Long
-- Job Title:
-- Email:
-- Phone: 
+- Job Title: Electric Transmission Engineer @ Dominion Energy
+- Email: rlong009@odu.edu / ryanc.long@outlook.com
+- Phone: (757)-633-2925
 
 ## Brandon Stokes
 - Job Title: N/A
