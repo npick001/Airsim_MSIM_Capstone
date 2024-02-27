@@ -18,9 +18,9 @@ When contacting, please let us know that you come from our *beautiful* documenta
 - Phone: 
 
 ## Brandon Stokes
-- Job Title:
-- Email:
-- Phone: 
+- Job Title: N/A
+- Email: bstok005@odu.edu / bstokes.est@gmail.com
+- Phone: (540)-656-7405
 
 ## Alan Anderson
 - Job Title: Associate Software Development Engineer in Test @ SAS 
