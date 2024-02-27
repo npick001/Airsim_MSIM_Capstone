@@ -78,22 +78,22 @@ cd PX4-Autopilot/
 make px4_sitl_default
 ```
 ##### For WSL users
-  By default, PX4 SITL outputs data to a localhost IP. Since we are using WSL, you need to retarget this IP to the address Windows uses to communicate with WSL.
-  1. Open a command prompt as an administrator and enter "ipconfig"
-  2. Find "Ethernet adapter vEthernet (WSL)" and copy the listed IPv4 address.
-  3. In the WSL terminal, navigate to the PX4-Autopilot/ directory.
-  4. Create a new file called run.sh and open it with your text editor of choice.
-  5. Edit the contents to say
-  ```
-  #!/bin/sh
-  export PX4_HOME_LAT=
-  export PX4_HOME_LON=
-  export PX4_HOME_ALT=0
-  export PX4_SIM_HOST_ADDR=
-  make px4_sitl_default
-  ```
-  7. Set the PX4_SIM_HOST_ADDR to the copied IP, and the lat and lon to the local coordinates of your test site.
-  8. In WSL, type "sh ./run.sh" to launch the SITL program.
+By default, PX4 SITL outputs data to a localhost IP. Since we are using WSL, you need to retarget this IP to the address Windows uses to communicate with WSL.
+1. Open a command prompt as an administrator and enter "ipconfig"
+2. Find "Ethernet adapter vEthernet (WSL)" and copy the listed IPv4 address.
+3. In the WSL terminal, navigate to the PX4-Autopilot/ directory.
+4. Create a new file called run.sh and open it with your text editor of choice.
+5. Edit the contents to say
+```
+#!/bin/sh
+export PX4_HOME_LAT=
+export PX4_HOME_LON=
+export PX4_HOME_ALT=0
+export PX4_SIM_HOST_ADDR=
+make px4_sitl_default
+```
+6. Set the PX4_SIM_HOST_ADDR to the copied IP, and the lat and lon to the local coordinates of your test site.
+7. In WSL, type "sh ./run.sh" to launch the SITL program.
 
 ## Unreal Engine Setup
 Setting up the Unreal Engine environment is probably the easiest part of this whole process. The steps are:
