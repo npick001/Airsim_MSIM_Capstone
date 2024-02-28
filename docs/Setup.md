@@ -79,7 +79,7 @@ make px4_sitl_default
 ```
 ##### For WSL users
 By default, PX4 SITL outputs data to a localhost IP. Since we are using WSL, you need to retarget this IP to the address Windows uses to communicate with WSL.
-1. Open a command prompt as an administrator and enter "ipconfig"
+1. Open a command prompt as an administrator and enter ```ipconfig```
 2. Find "Ethernet adapter vEthernet (WSL)" and copy the listed IPv4 address.
 3. In the WSL terminal, navigate to the PX4-Autopilot/ directory.
 4. Create a new file called run.sh and open it with your text editor of choice.
@@ -109,7 +109,7 @@ Make sure you are familiar with the [Unreal Engine Project Structure](https://do
 Setting up AirSim is easy once you have the correct environment prerequisites satisified. The steps for building AirSim are:
 - Open Visual Studio 2022
 - Open the _Developer PowerShell_
-- Navigate to your C:\Users\"{User}"\source\repos folder
+- Navigate to your C:/Users/"{User}"/source/repos folder
 - run the commands:
 ```
 git clone https://github.com/microsoft/AirSim.git --recursive
@@ -119,7 +119,7 @@ build.cmd
 
 This will create a folder in your AirSim repo called **Unreal**. This folder will contain a folder called **Plugins**. Once you have created an Unreal Project, copy the entire Plugins folder into the Unreal project directory.
 
-AirSim uses a file called _settings.json_ to specify the simulation environment settings. By default, settings.json is created in C:\Documents\Airsim\settings.json. Personally, I have moved my settings.json file to my Unreal Engine location because I have multiple Unreal Engine versions for separate projects and want the extra control. This location to put the settings.json file is ...\"{UE_4.27}"\Engine\Binaries\Win64\settings.json.
+AirSim uses a file called _settings.json_ to specify the simulation environment settings. By default, settings.json is created in C:\Documents\Airsim\settings.json. Personally, I have moved my settings.json file to my Unreal Engine location because I have multiple Unreal Engine versions for separate projects and want the extra control. This location to put the settings.json file is .../"{UE_4.27}"/Engine/Binaries/Win64/settings.json.
 
 ## Integrated Simulation Setup
 Setting up the integrated simulation environment should have been done in the environment prerequisites. Therefore, this section will talk about setting up the networking requirements and settings for AirSim to accomplish integrated simulation through Software-in-the-Loop and Hardware-in-the-Loop.
