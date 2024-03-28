@@ -1,0 +1,19 @@
+{
+  "SeeDocsAt": "https://github.com/Microsoft/AirSim/blob/main/docs/settings.md",
+  "SettingsVersion": 1.2,
+  "SimMode": "Multirotor",
+  "PawnPaths": {
+    "3DRSoloDronePawn": {
+      "PawnBP": "Class'/AirSim/Blueprints/BP_3DRSolo_Pawn.BP_3DRSolo_Pawn_C'"
+    }
+  },
+  "Vehicles": {
+    "3DRSoloDrone": {
+      "VehicleType": "SimpleFlight",
+      "EnableCollisionPassthrough": false,
+      "EnableCollisions": true,
+      "PawnPath": "3DRSoloDronePawn",
+      "AutoCreate": true
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "SeeDocsAt": "https://github.com/Microsoft/AirSim/blob/main/docs/settings.md",
+  "SettingsVersion": 1.2,
+  "SimMode": "Multirotor",
+  "PawnPaths": {
+    "Hexsoon_Pawn": {
+      "PawnBP": "Class'/AirSim/Blueprints/BP_Hexsoon450_Pawn.BP_Hexsoon450_Pawn_C'"
+    }
+  },
+  "Vehicles": {
+    "HexsoonDrone": {
+      "VehicleType": "SimpleFlight",
+      "EnableCollisionPassthrough": false,
+      "EnableCollisions": true,
+      "PawnPath": "Hexsoon_Pawn",
+      "AutoCreate": true
+    }
+  }
+}
